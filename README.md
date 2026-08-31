@@ -1,6 +1,6 @@
 # 📊 Estatística com Python: Resumindo e Analisando Dados
 
-Repositório com os estudos e o projeto prático do curso **[Estatística com Python: Resumindo e analisando dados](https://www.alura.com.br/)**, da **Alura**, parte da formação em Estatística para Ciência de Dados.
+Repositório com os estudos e o projeto prático do curso Estatística com Python: Resumindo e analisando dados, da Alura, parte da formação em Estatística para Ciência de Dados.
 
 O curso trabalha os fundamentos da **estatística descritiva** aplicados com Python, cobrindo desde a identificação dos tipos de dados até medidas de tendência central, separatrizes e dispersão — sempre com foco em como esses conceitos apoiam a geração de insights e a tomada de decisão orientada a dados.
 
