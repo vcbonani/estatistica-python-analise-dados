@@ -76,4 +76,4 @@ Principais etapas e conclusões da análise:
 
 Sou Vinícius Cunha, Analista de Dados/BI com background em consultoria de Finanças Corporativas e Oracle EPM. Este repositório faz parte da minha jornada de aprofundamento em estatística e análise de dados com Python.
 
-🔗 [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/vcbonani)
+🔗 [LinkedIn](https://www.linkedin.com/in/viniciuscunhadata/) · [GitHub](https://github.com/vcbonani)
